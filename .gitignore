@@ -1,0 +1,5 @@
+# folders
+.DS_Store
+target
+lib
+classes
