@@ -76,7 +76,7 @@ object GraphQL extends App{
 						ctx.ctx.getAvatar(ctx.value.username) 
 				})	
 		)
-	)
+	) 
 
 	val queryObj = ObjectType(
 		"Root"
